@@ -3,6 +3,8 @@ Rune Notation Converter Bot For Discord
 
 I am aware the code is awful, I'm not too experienced with most coding, however it's functional. Feel free to fork etc.
 
+### Thanks to /u/Not-The-Real-Thor for the original notation conversion code.
+
 # REQUIREMENTS:
 >Discord.PY
 
