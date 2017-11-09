@@ -19,4 +19,4 @@ I am aware the code is awful, I'm not too experienced with most coding, however 
 You want the runes formatted like _p1232 i023_ or something like that.
 Example:
 
-  !rune ashe p3231 s0303
+  !rune ashe p3231 s031
