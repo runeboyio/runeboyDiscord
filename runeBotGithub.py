@@ -4,6 +4,8 @@ import logging
 import asyncio
 import re
 
+###THANKS TO /u/Not_The_Real_Thor FOR THE ORIGINAL NOTATION CONVERSION CODE BELOW <333###
+
 description = "Runes Reforged Notation Discord Bot"
 
 logging.basicConfig(level=logging.INFO)
