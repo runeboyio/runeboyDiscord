@@ -1,6 +1,8 @@
 # runeboyDiscord
 Rune Notation Converter Bot For Discord
 
+I am aware the code is awful, I'm not too experienced with most coding, however it's functional. Feel free to fork etc.
+
 # REQUIREMENTS:
 >Discord.PY
 
@@ -15,4 +17,4 @@ Rune Notation Converter Bot For Discord
 You want the runes formatted like _p1232 i023_ or something like that.
 Example:
 
-  !rune ashe p3231 s033
+  !rune ashe p3231 s0303
