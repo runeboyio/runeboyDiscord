@@ -3,7 +3,9 @@ Rune Notation Converter Bot For Discord
 
 # REQUIREMENTS:
 >Discord.PY
+
 >Python 3.5
+
 >A Discord Bot Token
 
 
