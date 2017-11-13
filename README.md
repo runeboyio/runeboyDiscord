@@ -6,11 +6,11 @@ I am aware the code is awful, I'm not too experienced with most coding, however 
 ### Thanks to /u/Not-The-Real-Thor for the original notation conversion code.
 
 # REQUIREMENTS:
-*Discord.PY
+* Discord.PY
 
-*Python 3.5
+* Python 3.5
 
-*A Discord Bot Token
+* A Discord Bot Token
 
 
 # USAGE
